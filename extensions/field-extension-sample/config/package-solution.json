@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "field-extension-sample-client-side-solution",
+    "id": "d276ed87-4d05-4df1-aebb-fec2e12be280",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/field-extension-sample.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/personField/PersonFieldFieldCustomizer.js",
+      "manifest": "./src/extensions/personField/PersonFieldFieldCustomizer.manifest.json",
+      "outputPath": "./dist/person-field.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "personFieldStrings": "extensions/personField/loc/{locale}.js"
+  }
+}

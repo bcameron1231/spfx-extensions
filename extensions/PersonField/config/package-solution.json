@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "person-field-client-side-solution",
+    "id": "69c79f8e-fde8-4bcd-8775-68c4bce5ba7b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/person-field.sppkg"
+  }
+}

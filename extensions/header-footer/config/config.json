@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/alert/AlertCommandSet.js",
+      "manifest": "./src/extensions/alert/AlertCommandSet.manifest.json",
+      "outputPath": "./dist/alert.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "alertStrings": "extensions/alert/loc/{locale}.js"
+  }
+}

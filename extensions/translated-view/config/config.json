@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/translatedView/TranslatedViewFieldCustomizer.js",
+      "manifest": "./src/extensions/translatedView/TranslatedViewFieldCustomizer.manifest.json",
+      "outputPath": "./dist/translated-view.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "translatedViewStrings": "extensions/translatedView/loc/{locale}.js"
+  }
+}

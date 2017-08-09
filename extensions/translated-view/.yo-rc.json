@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "npm-install-g-yo",
+    "libraryId": "92a83a28-101a-447b-ad40-a5650c55f53f",
+    "environment": "spo"
+  }
+}

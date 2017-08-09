@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "npm-install-g-yo",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

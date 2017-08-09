@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "npm-install-g-yo-client-side-solution",
+    "id": "92a83a28-101a-447b-ad40-a5650c55f53f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/npm-install-g-yo.sppkg"
+  }
+}

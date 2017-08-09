@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "easy-translator-client-side-solution",
+    "id": "009ae786-8ea8-4d70-979c-38c3d8c5c69b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/easy-translator.sppkg"
+  }
+}

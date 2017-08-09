@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "header-footer-client-side-solution",
+    "id": "f48e7a45-dc4d-4684-9e88-dba119dbc488",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/header-footer.sppkg"
+  }
+}

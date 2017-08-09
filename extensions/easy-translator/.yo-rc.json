@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "easy-translator",
+    "libraryId": "009ae786-8ea8-4d70-979c-38c3d8c5c69b",
+    "environment": "spo"
+  }
+}

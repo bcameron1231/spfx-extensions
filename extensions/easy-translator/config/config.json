@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/easyTranslator/EasyTranslatorApplicationCustomizer.js",
+      "manifest": "./src/extensions/easyTranslator/EasyTranslatorApplicationCustomizer.manifest.json",
+      "outputPath": "./dist/easy-translator.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "easyTranslatorStrings": "extensions/easyTranslator/loc/{locale}.js"
+  }
+}

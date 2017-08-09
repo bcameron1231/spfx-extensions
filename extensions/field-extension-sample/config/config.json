@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/fieldCustomizerSample/FieldCustomizerSampleFieldCustomizer.js",
+      "manifest": "./src/extensions/fieldCustomizerSample/FieldCustomizerSampleFieldCustomizer.manifest.json",
+      "outputPath": "./dist/field-customizer-sample.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "fieldCustomizerSampleStrings": "extensions/fieldCustomizerSample/loc/{locale}.js"
+  }
+}
